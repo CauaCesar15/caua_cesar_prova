@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Caua_Cesar
+Nome: Caua Cesar
 
-RA: >>> PREENCHER <<<
+RA: 232173782
 
 Conta GitHub: @CauaCesar15
 
